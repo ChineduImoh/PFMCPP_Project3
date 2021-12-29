@@ -36,51 +36,51 @@ Sub Object 1: Steering Wheel
     Name 4 things you'll find on the:    Steering Wheel
         1) paddle shifters
         2) 'cruise control' controls
-        3) 
-        4) 
+        3) music control
+        4) control head (Trafficators)
     Name 2 things you can do with the:   Steering Wheel
         1) adjust cruise control settings.
-        2)
+        2) steer left or right
         
 Sub Object 2: Instrument Cluster
     Name 4 things you'll find on the:   Instrument Cluster
-        1)
-        2)
-        3)
-        4)
+        1) odometer 
+        2) techometer
+        3) speedometer
+        4) fuel gauge
     Name 3 things you can do with the:   Instrument Cluster
-        1)
-        2)
-        3)
+        1) get information about the speed of the vehicle
+        2) get information about the distance of the vehicle
+        3) get information about the fuel gauge of the vehicle
     
 Sub Object 3: Environment Controls
     Name 3 things you'll find on the:    Environment Controls
-        1)
-        2)
-        3)
+        1) temperature control
+        2) fan control
+        3) filter control
     Name 3 things you can do with the:   Environment Controls
-        1)
-        2)
-        3)
+        1) control the vehicle temperature
+        2) control the vehicle ventilation
+        3) filter the air in the vehicle
 
 Sub Object 4: Infotainment System
     Name 3 things you'll find on the:    Infotainment System
-        1)
-        2)
-        3)
+        1) radio control
+        2) touch screen display
+        3) volume control
     Name 3 things you can do with the:   Infotainment System
-        1)
-        2)
-        3)
+        1) listen to music
+        2) tune in to a radio station
+        3) watch a movie
 
 Sub Object 5: Seat 
     Name 3 things you'll find on the:    Seat
-        1)
-        2)
-        3)
+        1) seat belt buckle
+        2) seat protector
+        3) seat adjuster
     Name 2 things you can do with the:   Seat
-        1)
-        2)
+        1) move it forward or backward
+        2) sit on it
 */
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH

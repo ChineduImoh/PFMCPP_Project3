@@ -57,59 +57,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) Hair Salon
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of scissors
+    2) number of clippers
+    3) number of individuals serviced 
+    4) number of barber capes
+    5) number of hair dyes
 3 things it can do:
-    1)
-    2)
-    3)
+    1) sterilize equipment
+    2) cut hair
+    3) shave beards
  */
 
 /*
-Thing 2)
+Thing 2) Grocery Store
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of shelves
+    2) number of products
+    3) number of counters
+    4) number of freezers
+    5) number of store assistant
 3 things it can do:
-    1)
-    2)
-    3)
+    1) sell product
+    2) charge customer
+    3) accept coupon
  */
 
 /*
-Thing 3)
+Thing 3) Hospital
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of beds
+    2) number of doctors
+    3) number of nurse
+    4) number of patients
+    5) number of injections
 3 things it can do:
-    1)
-    2)
-    3)
+    1) perform operation on patients
+    2) prescribe drugs to patients
+    3) diagnose a patient
  */
 
 /*
-Thing 4)
+Thing 4) Cinema
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of movie halls
+    2) number of projectors
+    3) number of speakers
+    4) number of air condition
+    5) number of tickets
 3 things it can do:
-    1)
-    2)
-    3)
+    1) show latest movies
+    2) sell tickets
+    3) charge customer
  */
 
 

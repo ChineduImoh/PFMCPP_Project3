@@ -65,17 +65,17 @@ Part1 will be broken up into 5 separate steps
 */
 
 /*
-Thing 10)
+Thing 10) Computer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) GPU
+    2) OS
+    3) Kernel
+    4) Processes
+    5) Transistors
 3 things it can do:
-    1)
-    2)
-    3)
+    1) convert analog to digital signals
+    2) process information
+    3) store information
  */
 
 

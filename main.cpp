@@ -64,7 +64,65 @@ Part1 will be broken up into 5 separate steps
 3) Move the Thing 10 pseudo-code to after your Thing1-4 in the project.
 */
 
+
 /*
+Thing 1) Hair Salon
+5 properties:
+    1) number of scissors (int)
+    2) number of clippers (int)
+    3) number of individuals serviced (float)
+    4) number of barber capes (int)
+    5) number of hair dyes (double)
+3 things it can do:
+    1) sterilize equipment
+    2) cut hair
+    3) shave beards
+ */
+
+/*
+Thing 2) Grocery Store
+5 properties:
+    1) number of shelves (int)
+    2) number of products (float)
+    3) number of counters (double)
+    4) number of freezers (int)
+    5) number of store assistant (int)
+3 things it can do:
+    1) sell product
+    2) charge customer
+    3) accept coupon
+ */
+
+/*
+Thing 3) Hospital
+5 properties:
+    1) number of beds (int)
+    2) number of doctors (int)
+    3) number of nurse (int)
+    4) number of patients (int)
+    5) number of injections (double)
+3 things it can do:
+    1) perform operation on patients
+    2) prescribe drugs to patients
+    3) diagnose a patient
+ */
+
+/*
+Thing 4) Cinema
+5 properties:
+    1) number of movie halls (int)
+    2) number of projectors (int)
+    3) number of speakers (int)
+    4) number of air condition (int)
+    5) number of tickets (double)
+3 things it can do:
+    1) show latest movies
+    2) sell tickets
+    3) charge customer
+ */
+
+
+ /*
 Thing 10) Computer
 5 properties:
     1) GPU
@@ -76,65 +134,6 @@ Thing 10) Computer
     1) convert analog to digital signals
     2) process information
     3) store information
- */
-
-
-
-
-/*
-Thing 1) Hair Salon
-5 properties:
-    1) number of scissors
-    2) number of clippers
-    3) number of individuals serviced 
-    4) number of barber capes
-    5) number of hair dyes
-3 things it can do:
-    1) sterilize equipment
-    2) cut hair
-    3) shave beards
- */
-
-/*
-Thing 2) Grocery Store
-5 properties:
-    1) number of shelves
-    2) number of products
-    3) number of counters
-    4) number of freezers
-    5) number of store assistant
-3 things it can do:
-    1) sell product
-    2) charge customer
-    3) accept coupon
- */
-
-/*
-Thing 3) Hospital
-5 properties:
-    1) number of beds
-    2) number of doctors
-    3) number of nurse
-    4) number of patients
-    5) number of injections
-3 things it can do:
-    1) perform operation on patients
-    2) prescribe drugs to patients
-    3) diagnose a patient
- */
-
-/*
-Thing 4) Cinema
-5 properties:
-    1) number of movie halls
-    2) number of projectors
-    3) number of speakers
-    4) number of air condition
-    5) number of tickets
-3 things it can do:
-    1) show latest movies
-    2) sell tickets
-    3) charge customer
  */
 
 
